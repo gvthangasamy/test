@@ -1,5 +1,4 @@
 #!/bin/bash
 now=$(date)
-echo "current date: $now"
-git remote -v
-origin  git@github.com:gvthangasamy/test.git 
+echo "current date: $now".
+
