@@ -1,3 +1,4 @@
 #!/bin/bash
 now=$(date)
 echo "current date: $now"
+origin  git@github.com:gvthangasamy/test.git 
